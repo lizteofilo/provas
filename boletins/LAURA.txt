@@ -1,0 +1,8 @@
+Aluno: LAURA
+
+Disciplina    Nota
+matematica    10
+portugues     0
+
+Média: 5,00
+Resultado: REPROVADO

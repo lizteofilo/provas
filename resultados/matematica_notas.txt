@@ -1,0 +1,5 @@
+LAURA	10
+LUCAS	10
+LIRA	7
+
+Média da turma: 9,00

@@ -1,0 +1,5 @@
+PAUALO	10
+LIRA	6
+LAURA	0
+
+Média da turma: 5,33

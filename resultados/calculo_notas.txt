@@ -1,0 +1,5 @@
+KIARA	10
+LIRA	0
+LUCAS	0
+
+Média da turma: 3,33

@@ -1,0 +1,9 @@
+Aluno: LIRA
+
+Disciplina    Nota
+calculo       0
+matematica    7
+portugues     6
+
+Média: 4,33
+Resultado: REPROVADO

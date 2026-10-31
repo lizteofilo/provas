@@ -1,0 +1,8 @@
+Aluno: LUCAS
+
+Disciplina    Nota
+calculo       0
+matematica    10
+
+Média: 5,00
+Resultado: REPROVADO

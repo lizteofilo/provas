@@ -1,0 +1,7 @@
+Aluno: KIARA
+
+Disciplina    Nota
+calculo       10
+
+Média: 10,00
+Resultado: APROVADO
