@@ -1,0 +1,5 @@
+KIRA	10
+LIRA	10
+MARIA	8
+
+Média da turma: 9,33

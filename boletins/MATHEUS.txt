@@ -1,0 +1,7 @@
+Aluno: MATHEUS
+
+Disciplina    Nota
+calculo       0
+
+Média: 0,00
+Resultado: REPROVADO

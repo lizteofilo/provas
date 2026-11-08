@@ -1,5 +1,4 @@
-KIARA	10
-LIRA	0
-LUCAS	0
+LIRA	3
+MATHEUS	0
 
-Média da turma: 3,33
+Média da turma: 1,50
