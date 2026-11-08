@@ -1,0 +1,5 @@
+LIRA	9
+MARIA	9
+LUCAS	7
+
+Média da turma: 8,33

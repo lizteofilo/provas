@@ -1,0 +1,2 @@
+LIRA	8
+LUCAS	2

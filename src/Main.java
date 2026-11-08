@@ -52,6 +52,10 @@ public class Main {
         }
         Disciplina d = new Disciplina(nomeDisciplina);
 
+        File arquivoGabarito = new File(PASTA_GABARITOS, nomeDisciplina + ".txt");
+        System.out.println("\n --- Cadastro do Gabarito ---");
+        criarGabarito(arquivoGabarito);
+
         System.out.println("Cadastre os alunos (deixe o nome em branco para terminar).");
         while (true) {
             System.out.print("Nome do aluno: ");

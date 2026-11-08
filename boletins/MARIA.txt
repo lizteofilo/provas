@@ -1,0 +1,8 @@
+Aluno: MARIA
+
+Disciplina    Nota
+geometria     9
+poo           8
+
+Média: 8,50
+Resultado: APROVADO

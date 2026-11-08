@@ -1,7 +1,9 @@
 Aluno: LUCAS
 
 Disciplina    Nota
+algebra       2
+geometria     7
 matematica    10
 
-Média: 10,00
-Resultado: APROVADO
+Média: 6,33
+Resultado: REPROVADO

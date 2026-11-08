@@ -1,0 +1,4 @@
+LIRA	8
+LUCAS	2
+
+Média da turma: 5,00
